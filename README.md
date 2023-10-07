@@ -2,7 +2,9 @@
 
 #Feito em MVC (ASP.NET)
 
-*Sicronizado com Banco de dados
+*Sicronizado com Banco de dados*
+
+
 1-Home Page 
 ![image](https://github.com/Joaovictoraparecido/Crud-Cadastro-De-Funcionario/assets/115484907/5285e1f8-4992-4cb0-b7f3-2dd8a8ddb527)
 
